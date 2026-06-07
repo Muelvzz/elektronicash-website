@@ -1,0 +1,113 @@
+{
+  "HeroInfo": "We are more than a service provider — we are your trusted partner for fair value, safe transactions, and reliable quality. We keep our promises, protect your interests, and stand by you at every step.",
+  "AboutUsInfo": "In today’s hyper-connected world, electronic devices are much more than tools—they are vital economic and personal assets. At ELEKTRONICASH, our purpose is to provide fast, reliable, and accessible financial solutions through trusted gadget transactions, helping members of our community meet their immediate needs with dignity, transparency, and respect. Whether through our buyback options or by offering quality, pre-owned technology at fair prices, we are dedicated to giving used devices a new life through responsible trading.",
+  "PhilosophyInfo": {
+    "Purpose": "To provide fast, reliable, and accessible financial solutions through trusted gadget transactions while offering quality pre-owned technology at fair prices. We exist to help individuals meet their immediate needs with dignity, transparency, and respect, while giving used devices a new life through responsible trading.",
+    "PhilosophyList": [
+      {
+        "PhilosophyTitle": "Integrity and Fairness",
+        "PhilosophyContent": "Every transaction is built on honesty. We provide accurate, market-based appraisals, clear terms, and transparent rates with no hidden charges. We treat every customer fairly, whether they are selling an item or purchasing from us—because trust is our most valuable asset."
+      },
+      {
+        "PhilosophyTitle": "Customer Centricity",
+        "PhilosophyContent": "We understand that our customers come to us during important moments. We offer fast, simple, and judgment-free service with a team that is knowledgeable, respectful, and ready to help. Your needs and convenience are always our top priority."
+      },
+      {
+        "PhilosophyTitle": "Quality and Security",
+        "PhilosophyContent": "We only accept authentic, functional gadgets. Every item is thoroughly inspected, tested, and authenticated before acceptance or sale. We store all items securely and with proper care, ensuring your property is protected at all times."
+      },
+      {
+        "PhilosophyTitle": "Professionalism and Compliance",
+        "PhilosophyContent": "We operate with strict adherence to laws, regulations, and industry standards. We maintain meticulous records, follow strict security protocols, and conduct all business activities with total accountability and responsibility."
+      },
+      {
+        "PhilosophyTitle": "Value for All",
+        "PhilosophyContent": "We balance fair returns for buyers with reasonable pricing for our merchandise. We believe quality technology should be both affordable and accessible to everyone—regardless of background or status."
+      },
+      {
+        "PhilosophyTitle": "Community and Sustainability",
+        "PhilosophyContent": "We are proud to be an active part of the community we serve. We support local needs, provide reliable services, and promote sustainability by extending the life of electronic devices—reducing electronic waste and making technology available to more people."
+      }
+    ]
+  },
+  "VisionAndMissionInfo": {
+    "Vission": {
+      "VissionInfo": "To be the nation's premier technology-based financial services provider and pre-owned electronics retailer, recognized for transforming asset trading into a dignified, secure, and sustainable experience for every community.",
+      "VissionList": [
+        {
+          "VissionTitle": "The Trusted Consumer Choice",
+          "VissionContent": "To be the most preferred and trusted gadget retailer and trader nationwide, delivering accessible, secure financial solutions and quality pre-owned technology to individuals and communities."
+        },
+        {
+          "VissionTitle": "Operational Excellence",
+          "VissionContent": "To lead the industry in technology-backed financial services, setting the standard for fair appraisals, fast transactions, and uncompromising integrity in every deal."
+        },
+        {
+          "VissionTitle": "Sustainability & Empowerment",
+          "VissionContent": "To pioneer responsible gadget trading by promoting device reuse and reducing electronic waste, while empowering people with timely financial support and honest service."
+        }
+      ]
+    },
+    "MissionInfo": "To serve communities responsibly by delivering fast, reliable, and accessible financial solutions through trusted gadget transactions. We are dedicated to contributing to a sustainable economy by providing fair access to capital and quality pre-owned goods. By championing the reuse of technology and reducing electronic waste, we ensure that every transaction supports both personal progress and environmental responsibility. We create lasting value for our customers, employees, and society through uncompromising integrity, strict data security, and genuine, dignified service."
+  },
+  "QualityPolicyInfo": [
+    {
+      "QualityPolicyTitle": "Reliable Service. Fair Practices. Total Trust.",
+      "QualityPolicyContent": "We are committed to delivering the highest standards in every transaction, product, and interaction. We ensure absolute accuracy, total transparency, and uncompromising professionalism throughout our operations."
+    },
+    {
+      "QualityPolicyTitle": "Sustainable practices, protecting our future",
+      "QualityPolicyContent": "We act responsibly to minimize our environmental footprint and foster a greener, more sustainable community. We actively integrate the principles of the circular economy—Reduce, Reuse, and Recycle—into every aspect of our business operations."
+    },
+    {
+      "QualityPolicyTitle": "data privacy and compassionate trust",
+      "QualityPolicyContent": "In adherence to the Data Privacy Act (R.A. 10173), protecting your personal information is our highest priority. Employees are strictly prohibited from accessing, copying, or modifying any data on trade-in devices. Any unauthorized data access violates our core commitment, constitutes serious misconduct, and will result in immediate disciplinary action and legal prosecution."
+    },
+    {
+      "QualityPolicyTitle": "ASSET PROTECTION, DATA SECURITY & METICULOUS DILIGENCE",
+      "QualityPolicyContent": "Every gadget held under buyback represents an invaluable bond of trust. We enforce stringent technical verification, data-clearing, and secure storage protocols to protect customer property from damage, loss, or unauthorized access. Because we handle high-value technology, employees are held strictly accountable to these workflows to ensure our operational excellence is never compromised."
+    }
+  ],
+  "TeamInfo": [
+    {
+      "PersonName": "MuelvinLopez",
+      "PersonRole": "Founder",
+      "PersonImage": "/team/dummy.jpg"
+    },
+    {
+      "PersonName": "Psalm Lopez",
+      "PersonRole": "Co-Founder",
+      "PersonImage": "/team/dummy.jpg"
+    },
+    {
+      "PersonName": "Muelvzz Agno",
+      "PersonRole": "Head of Sales",
+      "PersonImage": "/team/dummy.jpg"
+    },
+    {
+      "PersonName": "Jane Doe",
+      "PersonRole": "Lead Developer",
+      "PersonImage": "/team/dummy.jpg"
+    },
+    {
+      "PersonName": "John Smith",
+      "PersonRole": "UI/UX Designer",
+      "PersonImage": "/team/dummy.jpg"
+    },
+    {
+      "PersonName": "Alice Johnson",
+      "PersonRole": "Marketing Manager",
+      "PersonImage": "/team/dummy.jpg"
+    },
+    {
+      "PersonName": "Bob Martinez",
+      "PersonRole": "Product Manager",
+      "PersonImage": "/team/dummy.jpg"
+    },
+    {
+      "PersonName": "Sarah Lee",
+      "PersonRole": "QA Engineer",
+      "PersonImage": "/team/dummy.jpg"
+    }
+  ]
+}
