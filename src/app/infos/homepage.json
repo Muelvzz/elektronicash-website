@@ -7,27 +7,27 @@
       {
         "ProductTitle": "Smartphones",
         "ProductInfo": "Stay connected for less with our curated selection of pre-owned smartphones. Each device undergoes rigorous testing to ensure reliable battery life, crisp displays, and peak performance. Get premium features from top brands at a fraction of the retail cost.",
-        "Img": "public/products/smartphone.jpg"
+        "Img": "/products/smartphone.jpg"
       },
       {
         "ProductTitle": "Tablets",
         "ProductInfo": "Perfect for streaming, reading, or working on the go, our second-hand tablets offer incredible value. We carry a variety of screen sizes and operating systems to fit your entertainment and productivity needs. Enjoy lightweight portability and certified functionality without the brand-new price tag.",
-        "Img": "public/products/tablet.jpg"
+        "Img": "/products/tablet.jpg"
       },
       {
         "ProductTitle": "Laptops",
         "ProductInfo": "Upgrade your workstation with our thoroughly inspected pre-owned laptops. Whether you need a powerful machine for gaming, a reliable laptop for school, or a sleek ultrabook for business, we have options to match your budget. High performance meets sustainable shopping right here.",
-        "Img": "public/products/laptop.jpg"
+        "Img": "/products/laptop.jpg"
       },
       {
         "ProductTitle": "Consoles",
         "ProductInfo": "Dive into your favorite gaming worlds with our affordable, quality-checked video game consoles. We test all hardware, disc drives, and ports so you can experience seamless gameplay from the moment you plug it in. Experience next-level entertainment without overspending.",
-        "Img": "public/products/consoles.jpg"
+        "Img": "/products/consoles.jpg"
       },
       {
         "ProductTitle": "Cameras",
         "ProductInfo": "Capture life's best moments with our range of high-quality, pre-owned digital and DSLR cameras. Ideal for both aspiring hobbyists and seasoned photographers, these devices are checked for sensor clarity and mechanical precision. Get professional-grade gear while keeping your budget intact.",
-        "Img": "public/products/camera.jpg"
+        "Img": "/products/camera.jpg"
       }
     ]
   },
