@@ -11,7 +11,7 @@ export default function Products() {
       </div>
       <div className="flex flex-col gap-y-10">
         {ProductsInfo.ProductsList.map((product) => (
-          <div className="bg-(--primary-color) text-black rounded-md flex flex-col lg:flex-row lg:mx-30">
+          <div className="bg-(--primary-color) text-black rounded-md flex flex-col lg:flex-row lg:mx-30" key={ product.ProductTitle }>
             <div className="flex lg:flex-1 h-fit">
               <img src={ product.Img } alt={`Image of ${ product.ProductTitle }`} className="rounded-md"/>
             </div>
