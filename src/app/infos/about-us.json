@@ -31,20 +31,20 @@
     ]
   },
   "VisionAndMissionInfo": {
-    "Vission": {
-      "VissionInfo": "To be the nation's premier technology-based financial services provider and pre-owned electronics retailer, recognized for transforming asset trading into a dignified, secure, and sustainable experience for every community.",
-      "VissionList": [
+    "Vision": {
+      "VisionInfo": "To be the nation's premier technology-based financial services provider and pre-owned electronics retailer, recognized for transforming asset trading into a dignified, secure, and sustainable experience for every community.",
+      "VisionList": [
         {
-          "VissionTitle": "The Trusted Consumer Choice",
-          "VissionContent": "To be the most preferred and trusted gadget retailer and trader nationwide, delivering accessible, secure financial solutions and quality pre-owned technology to individuals and communities."
+          "VisionTitle": "The Trusted Consumer Choice",
+          "VisionContent": "To be the most preferred and trusted gadget retailer and trader nationwide, delivering accessible, secure financial solutions and quality pre-owned technology to individuals and communities."
         },
         {
-          "VissionTitle": "Operational Excellence",
-          "VissionContent": "To lead the industry in technology-backed financial services, setting the standard for fair appraisals, fast transactions, and uncompromising integrity in every deal."
+          "VisionTitle": "Operational Excellence",
+          "VisionContent": "To lead the industry in technology-backed financial services, setting the standard for fair appraisals, fast transactions, and uncompromising integrity in every deal."
         },
         {
-          "VissionTitle": "Sustainability & Empowerment",
-          "VissionContent": "To pioneer responsible gadget trading by promoting device reuse and reducing electronic waste, while empowering people with timely financial support and honest service."
+          "VisionTitle": "Sustainability & Empowerment",
+          "VisionContent": "To pioneer responsible gadget trading by promoting device reuse and reducing electronic waste, while empowering people with timely financial support and honest service."
         }
       ]
     },

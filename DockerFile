@@ -9,7 +9,7 @@ RUN npm install
 RUN npm install tailwindcss @tailwindcss/vite
 RUN npm install react-router-dom lucide-react
 RUN npx shadcn@latest init --preset b1Z5bbEAK --template vite
-RUN npx shadcn@latest add button empty spinner sheet
+RUN npx shadcn@latest add button empty spinner sheet dialog
 
 COPY . .
 

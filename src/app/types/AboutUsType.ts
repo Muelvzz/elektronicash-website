@@ -3,9 +3,9 @@ interface PhilosophyList {
   PhilosophyContent: string
 }
 
-interface VissionList {
-  VissionTitle: string,
-  VissionContent: string
+interface VisionList {
+  VisionTitle: string,
+  VisionContent: string
 }
 
 interface QualityPolicyInfo {
@@ -26,10 +26,10 @@ export interface AboutUsType {
     Purpose: string,
     PhilosophyList: PhilosophyList[]
   },
-  VissionAndMissionInfo: {
-    Vission: {
-      VissionInfo: string,
-      VissionList: VissionList[]
+  VisionAndMissionInfo: {
+    Vision: {
+      VisionInfo: string,
+      VisionList: VisionList[]
     },
     MissionInfo: string
   },
