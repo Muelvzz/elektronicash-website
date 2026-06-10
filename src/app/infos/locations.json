@@ -1,0 +1,50 @@
+{
+  "Caption": "",
+"LocationsList": [
+    {
+      "Location": "The Central Hub",
+      "LocationAddress": "100 Innovation Way, Suite 400, Boston, MA 02110",
+      "LocationImage": "/team/dummy.jpg"
+    },
+    {
+      "Location": "Pacific Vista Lounge",
+      "LocationAddress": "742 Evergreen Terrace, San Francisco, CA 94103",
+      "LocationImage": "/team/dummy.jpg"
+    },
+    {
+      "Location": "Metro Gateway Station",
+      "LocationAddress": "452 King Street West, Toronto, ON M5V 1K4, Canada",
+      "LocationImage": "/team/dummy.jpg"
+    },
+    {
+      "Location": "The Shard Workspace",
+      "LocationAddress": "32 London Bridge St, London SE1 9SG, United Kingdom",
+      "LocationImage": "/team/dummy.jpg"
+    },
+    {
+      "Location": "Alps View Conference Center",
+      "LocationAddress": "Via Maestra 14, 6900 Lugano, Switzerland",
+      "LocationImage": "/team/dummy.jpg"
+    },
+    {
+      "Location": "Harbor Side Pavilion",
+      "LocationAddress": "2 Sydney Harbour Bridge Walk, Sydney NSW 2000, Australia",
+      "LocationImage": "/team/dummy.jpg"
+    },
+    {
+      "Location": "Shibuya Crossroads Office",
+      "LocationAddress": "2-2-1 Dogenzaka, Shibuya City, Tokyo 150-0043, Japan",
+      "LocationImage": "/team/dummy.jpg"
+    },
+    {
+      "Location": "Desert Oasis Tech Park",
+      "LocationAddress": "Sheikh Zayed Rd, Dubai Marina, Dubai, United Arab Emirates",
+      "LocationImage": "/team/dummy.jpg"
+    },
+    {
+      "Location": "Southern Cross Studio",
+      "LocationAddress": "12 Cape Town Boulevard, Waterfront, Cape Town 8001, South Africa",
+      "LocationImage": "/team/dummy.jpg"
+    }
+  ]
+}
