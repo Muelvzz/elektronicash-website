@@ -1,6 +1,3 @@
-// Sole Responsibility:
-// Core entry point that aggregates and renders all application pages.
-
 import Home from './pages/Home'
 import Loading from './pages/Loading'
 import Navigation from './components/Navigation'

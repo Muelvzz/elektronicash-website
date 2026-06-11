@@ -26,7 +26,7 @@ export const LocationPageProvider = ({ children }: LocationPageProviderProps) =>
   )
 }
 
-export const useAboutUsContext = () => {
+export const useLocationPageContext = () => {
   const context = useContext(LocationPageContext)
   if (!context) { throw new Error(`useLocationPageContext must be used within a LocationPageProvider`) }
   return context
